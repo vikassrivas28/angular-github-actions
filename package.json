@@ -42,5 +42,5 @@
     "typescript": "~5.2.2"
   }
 }
-"build:prod": "ng build --configuration production --base-href https://github.com/vikassrivas28/angular-github-actions.git",
+"build:prod": "ng build --configuration production --base-href https://github.com/vikassrivas28/angular-github-actions",
 "test:headless": "ng test --watch=false --browsers=ChromeHeadless"
